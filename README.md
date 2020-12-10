@@ -3,11 +3,11 @@ Simple day planner is built using jQuery and the moment.js library and using loc
 
 This has been deployed to GitHub. To get this web app ( or project) up and running, one can follow the link(deployment).one can also download the file to use as template.
  
-* [GitHub Repository](https://github.com/citenaresh/blah-blah-blah/): https://github.com/citenaresh/blah-blah-blah/
-* [Deployed GitHub IO](https://citenaresh.github.io/blah-blah-blah/index.html): https://citenaresh.github.io/blah-blah-blah/index.html
+* [GitHub Repository](https://github.com/citenaresh/blah-blah-blah/): https://github.com/citenaresh/Simple-Day-Planner/
+* [Deployed GitHub IO](https://citenaresh.github.io/blah-blah-blah/index.html): https://citenaresh.github.io/Simple-Day-Planner/index.html
 
 The screenshot of the Day Planner :
-![Day Planner](assets/screenshot/dayplannerfinal.png)
+![Day Planner](assets/screenshots/dayplannerfinal.png)
 
 
 ### project's Summary
@@ -17,10 +17,10 @@ This is a basic day planner app that loops through the hours of 9am - 5pm for a 
 
 ### The Psuedo Code for the Project: 
 * The user will be presented with 9 rows of day planner with time slot already fixed(in first column), then in the second column, which is a text area, one can enter the note 
-![Row](assets/screenshot/row_planner.png)
+![Row](assets/screenshots/row_planner.png)
 
 then in the third column, the user can click on the  save button to save the data to the local storage
-![Save Button](assets/screenshot/button.png)
+![Save Button](assets/screenshots/button.png)
 
 
 
@@ -37,12 +37,12 @@ then in the third column, the user can click on the  save button to save the dat
 ### Features: 
 * HTML Page
     * Index.html 
-        * The main UI design
+        The main UI design
 * CSS file
     * Styles.css
-        * for the style of the page (index.html)
+         for the style of the page (index.html)
 * Javascript file
-        * script.js for loading the day planner body and saving and displaying from localstorage
+         script.js for loading the day planner body and saving and displaying from localstorage
 
 
 ## Authors
