@@ -14,15 +14,15 @@ The screenshot of the Day Planner :
 This is a basic day planner app that loops through the hours of 9am - 5pm for a specific date, that is current day (or today). The app uses moment.js to handle time. The app allows the user to enter and save text into any description field that has a class of future. The data will be saved to the localStorage of the browser. The past hours are highlighted gray, the current hour red, and future hours green.
 
 
-
-### The Psuedo Code for the Project: 
 * The user will be presented with 9 rows of day planner with time slot already fixed(in first column), then in the second column, which is a text area, one can enter the note 
 ![Row](assets/screenshots/row_planner.png)
 
+
 then in the third column, the user can click on the  save button to save the data to the local storage
+
 ![Save Button](assets/screenshots/button.png)
 
-
+### The Psuedo Code for the Project: 
 
 * First a variable is declared to store and loop through the time slots     
 * Then moments.js is used to grab the data for the header date.
