@@ -3,7 +3,7 @@ Simple day planner is built using jQuery and the moment.js library and using loc
 
 This has been deployed to GitHub. To get this web app ( or project) up and running, one can follow the link(deployment).one can also download the file to use as template.
  
-* [GitHub Repository]: (https://github.com/citenaresh/Simple-Day-Planner/)
+* [GitHub Repository](https://github.com/citenaresh/Simple-Day-Planner/): https://github.com/citenaresh/Simple-Day-Planner/
 * [Deployed GitHub IO](https://citenaresh.github.io/blah-blah-blah/index.html): https://citenaresh.github.io/Simple-Day-Planner/index.html
 
 The screenshot of the Day Planner :
